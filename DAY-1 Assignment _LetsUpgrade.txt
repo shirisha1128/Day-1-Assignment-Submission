@@ -1,0 +1,19 @@
+------JAVA PROGRAMMING FROM ZERO TO HERO---------
+----LetsUpgrade-----
+
+Day 1 Assignment: Difference between Compiler and interpreter
+
+COMPILER
+
+>  A compiler is a program that reads a program written in the high-level language
+   and converts it into the machine or low-level language and reports the errors 
+   present in the program. 
+>  It converts the entire source code in one go or could take multiple passes to do so, but at last, 
+   the user gets the compiled code which is ready to execute.
+
+INTERPRETER
+
+>  Interpreters are designed to translate single instruction at a time and execute them immediately.
+>  A compiler is comparatively faster than Interpreter as the compiler 
+   take the whole program at one go whereas interpreters compile each
+   line of code after the other.
